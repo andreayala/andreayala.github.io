@@ -32,7 +32,7 @@
       }
     ]
   },
-  "Interests": [
+  "interests": [
     {
       "name": "internet of things",
       "keywords": [
